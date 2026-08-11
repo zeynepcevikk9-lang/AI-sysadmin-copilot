@@ -3,7 +3,7 @@
 Log dosyalarını (ZIP dahil) yükleyip AI destekli analiz, incident report üretimi, PDF/Markdown export ve arama sunan SaaS uygulaması.
 
 Mimari detayları için [docs/architecture.md](docs/architecture.md) dosyasına bakın.
-Windows ve Mac cihazlarda bilgisayar adı (host ismi) değiştirme için [docs/bilgisayar-adi-degistirme.md](docs/bilgisayar-adi-degistirme.md) dosyasına bakın.
+Windows ve Mac cihazlarda bilgisayar adı (host ismi) değiştirme için [docs/Bilgisayar-Adi-Degistirme-Rehberi.docx](docs/Bilgisayar-Adi-Degistirme-Rehberi.docx) dosyasına bakın.
 
 ## Gereksinimler
 
